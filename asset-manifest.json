@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-bigbasket-project/static/css/main.377614e5.css",
+    "main.css": "/react-bigbasket-project/static/css/main.97d5d5b1.css",
     "main.js": "/react-bigbasket-project/static/js/main.e6ca8f0e.js",
     "static/js/787.3b70c27e.chunk.js": "/react-bigbasket-project/static/js/787.3b70c27e.chunk.js",
     "static/media/slick.svg": "/react-bigbasket-project/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -8,12 +8,12 @@
     "index.html": "/react-bigbasket-project/index.html",
     "static/media/slick.ttf": "/react-bigbasket-project/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/react-bigbasket-project/static/media/slick.295183786cd8a1389865.woff",
-    "main.377614e5.css.map": "/react-bigbasket-project/static/css/main.377614e5.css.map",
+    "main.97d5d5b1.css.map": "/react-bigbasket-project/static/css/main.97d5d5b1.css.map",
     "main.e6ca8f0e.js.map": "/react-bigbasket-project/static/js/main.e6ca8f0e.js.map",
     "787.3b70c27e.chunk.js.map": "/react-bigbasket-project/static/js/787.3b70c27e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.377614e5.css",
+    "static/css/main.97d5d5b1.css",
     "static/js/main.e6ca8f0e.js"
   ]
 }
